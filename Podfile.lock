@@ -1,0 +1,33 @@
+PODS:
+  - AMap3DMap (6.5.0):
+    - AMapFoundation (~> 1.5)
+  - AMapFoundation (1.5.5)
+  - AMapLocation (2.6.1):
+    - AMapFoundation (~> 1.4)
+  - BmobSDK (2.3.1)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - AMap3DMap
+  - AMapLocation
+  - BmobSDK
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AMap3DMap
+    - AMapFoundation
+    - AMapLocation
+    - BmobSDK
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  AMap3DMap: cbe10cc4302ac3f2817ef4221e1259d7e18d1c2f
+  AMapFoundation: 652bd70ba579f48a98bdf0c74d6e62a89a06ca58
+  AMapLocation: cf024b53dc03663efb4ea4bcce27d4cce58bb97a
+  BmobSDK: e0f9e4b451233a80af63a8ae4f2d239474bf567b
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: cad2c5d0608ccd76090dce81d58f5ab2a6356b74
+
+COCOAPODS: 1.5.3
